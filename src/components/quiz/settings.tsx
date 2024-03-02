@@ -1,4 +1,3 @@
-import { play } from "../../utils/audio-utils";
 import { calculateNextGuessNotes } from "../../utils/note-utils";
 import { Difficulty, difficultyData, useStore } from "../../utils/store";
 import { cn } from "../../utils/style-utils";
